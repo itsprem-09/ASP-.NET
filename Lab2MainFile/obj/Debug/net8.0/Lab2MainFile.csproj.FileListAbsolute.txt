@@ -1,0 +1,14 @@
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab2MainFile\bin\Debug\net8.0\Lab2MainFile.exe
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab2MainFile\bin\Debug\net8.0\Lab2MainFile.deps.json
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab2MainFile\bin\Debug\net8.0\Lab2MainFile.runtimeconfig.json
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab2MainFile\bin\Debug\net8.0\Lab2MainFile.dll
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab2MainFile\bin\Debug\net8.0\Lab2MainFile.pdb
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab2MainFile\obj\Debug\net8.0\Lab2MainFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab2MainFile\obj\Debug\net8.0\Lab2MainFile.AssemblyInfoInputs.cache
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab2MainFile\obj\Debug\net8.0\Lab2MainFile.AssemblyInfo.cs
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab2MainFile\obj\Debug\net8.0\Lab2MainFile.csproj.CoreCompileInputs.cache
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab2MainFile\obj\Debug\net8.0\Lab2MainFile.dll
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab2MainFile\obj\Debug\net8.0\refint\Lab2MainFile.dll
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab2MainFile\obj\Debug\net8.0\Lab2MainFile.pdb
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab2MainFile\obj\Debug\net8.0\Lab2MainFile.genruntimeconfig.cache
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab2MainFile\obj\Debug\net8.0\ref\Lab2MainFile.dll

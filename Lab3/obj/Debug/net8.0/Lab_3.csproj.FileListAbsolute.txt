@@ -1,0 +1,14 @@
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab3\bin\Debug\net8.0\Lab_3.exe
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab3\bin\Debug\net8.0\Lab_3.deps.json
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab3\bin\Debug\net8.0\Lab_3.runtimeconfig.json
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab3\bin\Debug\net8.0\Lab_3.dll
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab3\bin\Debug\net8.0\Lab_3.pdb
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab3\obj\Debug\net8.0\Lab_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab3\obj\Debug\net8.0\Lab_3.AssemblyInfoInputs.cache
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab3\obj\Debug\net8.0\Lab_3.AssemblyInfo.cs
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab3\obj\Debug\net8.0\Lab_3.csproj.CoreCompileInputs.cache
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab3\obj\Debug\net8.0\Lab_3.dll
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab3\obj\Debug\net8.0\refint\Lab_3.dll
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab3\obj\Debug\net8.0\Lab_3.pdb
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab3\obj\Debug\net8.0\Lab_3.genruntimeconfig.cache
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab3\obj\Debug\net8.0\ref\Lab_3.dll

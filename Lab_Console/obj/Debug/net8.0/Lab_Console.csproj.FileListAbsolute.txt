@@ -1,0 +1,14 @@
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_Console\bin\Debug\net8.0\Lab_Console.exe
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_Console\bin\Debug\net8.0\Lab_Console.deps.json
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_Console\bin\Debug\net8.0\Lab_Console.runtimeconfig.json
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_Console\bin\Debug\net8.0\Lab_Console.dll
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_Console\bin\Debug\net8.0\Lab_Console.pdb
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_Console\obj\Debug\net8.0\Lab_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_Console\obj\Debug\net8.0\Lab_Console.AssemblyInfoInputs.cache
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_Console\obj\Debug\net8.0\Lab_Console.AssemblyInfo.cs
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_Console\obj\Debug\net8.0\Lab_Console.csproj.CoreCompileInputs.cache
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_Console\obj\Debug\net8.0\Lab_Console.dll
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_Console\obj\Debug\net8.0\refint\Lab_Console.dll
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_Console\obj\Debug\net8.0\Lab_Console.pdb
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_Console\obj\Debug\net8.0\Lab_Console.genruntimeconfig.cache
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_Console\obj\Debug\net8.0\ref\Lab_Console.dll
