@@ -1,0 +1,15 @@
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_5\bin\Debug\net8.0\Lab_5.exe
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_5\bin\Debug\net8.0\Lab_5.deps.json
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_5\bin\Debug\net8.0\Lab_5.runtimeconfig.json
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_5\bin\Debug\net8.0\Lab_5.dll
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_5\bin\Debug\net8.0\Lab_5.pdb
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_5\obj\Debug\net8.0\Lab_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_5\obj\Debug\net8.0\Lab_5.AssemblyInfoInputs.cache
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_5\obj\Debug\net8.0\Lab_5.AssemblyInfo.cs
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_5\obj\Debug\net8.0\Lab_5.csproj.CoreCompileInputs.cache
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_5\obj\Debug\net8.0\Lab_5.sourcelink.json
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_5\obj\Debug\net8.0\Lab_5.dll
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_5\obj\Debug\net8.0\refint\Lab_5.dll
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_5\obj\Debug\net8.0\Lab_5.pdb
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_5\obj\Debug\net8.0\Lab_5.genruntimeconfig.cache
+C:\DU-PROGRAMS\.Net Projects\Lab_Console\Lab_5\obj\Debug\net8.0\ref\Lab_5.dll
